@@ -1,4 +1,4 @@
-#Setting Up a Firewall Rule to allow ArcGIS Server to Acess Certain Ports to Control Traffic to and from a VM Instance on Google Cloud.
+# Setting Up a Firewall Rule to allow ArcGIS Server to Acess Certain Ports to Control Traffic to and from a VM Instance on Google Cloud.
 
 ### Step 1
 There is a firewall built into the Windows machine itslef already, so you need to configure it to allow TCP 6443 and 6080 to allow the machine to pass through from an outside network.
