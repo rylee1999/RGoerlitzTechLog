@@ -4,7 +4,7 @@
 Once logged into your Google Cloud account go to the hamburger symbol on the left of the screen and select Compute Engine and then VM Instances, this is where you can start your VM to acess your ArcGIS Server.
 
 ### Step 2
-Once in the page for VM Instances, go to the Related Actions and sect the "Set up firewall rules" tab. Then at the top of this new page, click on the "Create Firewall Rule" tab.
+Once in the page for VM Instances, go to the Related Actions and sect the "Set up firewall rules" tab. Then at the top of this new page, click on the "Create Firewall Rule" tab. 
 
 ### Step 3
 Once you get into the fillable page, enter as follows:
