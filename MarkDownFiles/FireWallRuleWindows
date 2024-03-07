@@ -15,5 +15,6 @@ The select "TCP" and enter the ports you wish to permit your firewall when acess
 Leave the deault of "Allow the connection"  selected, and click NEXT.
 
 The rule will apply for all options: Domain, Provate and Public. Click NEXT. 
+Give your rule an appropriate name and description.  
 
 This firewall rule will go love immetiatly after creation and will persit after restarts of the server. Therefore, this rull doe snot ned to be changed again.
