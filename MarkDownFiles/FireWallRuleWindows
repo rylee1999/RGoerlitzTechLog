@@ -1,1 +1,2 @@
 
+There is a firewall built into the Windows machine itslef already, so you need to configure it to allow TCP 6443 and 6080 to allow the machine to pass through from an outside network.
