@@ -6,7 +6,7 @@ Once logged into your Google Cloud account go to the hamburger symbol on the lef
 ### Step 2
 Once in the page for VM Instances, go to the Related Actions and sect the "Set up firewall rules" tab. Then at the top of this new page, click on the "Create Firewall Rule" tab. 
 
-### Step 3
+### Step 3 
 Once you get into the fillable page, enter as follows:
 Name: flemingrdp44
 Logs: off
