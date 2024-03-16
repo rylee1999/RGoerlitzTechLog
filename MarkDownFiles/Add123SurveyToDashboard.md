@@ -5,7 +5,7 @@ Create a forum in 123 Survey and publish it. While in 123 Survey app, go to the 
 the public if this is meant to be a web application.  Make sure to save all changes. 
 
 ### Step 2
-Then go into your AGOL account and find the new survey folder (this has the survey you juts created) within your contents tab. Make sure to not delete this in AGOL by mistake since the survey 
+Then go into your AGOL account and find the new survey folder (this has the survey you just created) within your contents tab. Make sure to not delete this in AGOL by mistake since the survey 
 will be gone!
 
 Go into the folder contianing your new survey, inside there should be the fourm and 3 feature layers. Click onto the "Feature Layer (hosted) item detail via the 3 dots beside "View Details".
