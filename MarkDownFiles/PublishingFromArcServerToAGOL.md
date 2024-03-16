@@ -6,6 +6,6 @@ This will get you the map servers rest end point
 
 ### Step 2 
 Go onto AGOL and go to "My Content" --> "new item" --> "URL" --> insert Map Server  URL --> 
-Leave as if you want a MapService Map Image or add /0 to URL to make it a MapService Feature Layer
+Leave as is you want a MapService Map Image or add /0 to URL to make it a MapService Feature Layer
 
 --> Add item details (description, summary, tags)
