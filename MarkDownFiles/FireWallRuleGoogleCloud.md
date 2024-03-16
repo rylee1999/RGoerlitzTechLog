@@ -8,19 +8,19 @@ Once in the page for VM Instances, go to the Related Actions and sect the "Set u
 
 ### Step 3 
 Once you get into the fillable page, enter as follows:
-Name: flemingrdp44
-Logs: off
-Network: default
-Priority: 1000
-Direction: Ingress
-Action on match: Allow
-Targets: All instances in the network
-Source filter: 1Pv4 range
-IP Range: (enter your computers external IP or 0.0.0.0/0 for every IP/location)
-Second source filter: None
-Ports: 444, 6443, 6080
-Enforement: Enabled 
-Insights: None
+Name: flemingrdp44 -->
+Logs: off -->
+Network: default -->
+Priority: 1000 -->
+Direction: Ingress -->
+Action on match: Allow -->
+Targets: All instances in the network -->
+Source filter: 1Pv4 range -->
+IP Range: (enter your computers external IP or 0.0.0.0/0 for every IP/location) -->
+Second source filter: None -->
+Ports: 444, 6443, 6080 -->
+Enforement: Enabled -->
+Insights: None -->
 
 Then click "Create"
 
