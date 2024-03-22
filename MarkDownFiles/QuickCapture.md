@@ -19,5 +19,6 @@ If you use a feature layer, the app will create buttons of all your fields group
 ### Step 2: Using a web map and creating your own buttons
 The app allows you to add labels which can be grouped together, these labels can then be cutomized with colour and icons. 
 To add new labels or new groups of labels use the top organce icon ( 3 symbols inside) to drag and drop to get desired placement or order.
+
 ![image](https://github.com/rylee1999/RGoerlitzTechLog/assets/146375958/db5d71bd-85f2-4b83-af42-597fab0f8fc8)
 
