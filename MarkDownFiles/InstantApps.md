@@ -1,7 +1,9 @@
 # Learning about ArcGIS Instant Apps: Testing the Reporter App (Beta) 
 
 **** It took a long time to configure, had to refresh page to get it to work ****
+
 This app allows uses to enter in data on a map, this could be helpful for our Citiizen Science Turtle Monitoring project, a app can also be installed in top of a web application. 
+
 *** To edit after publishing you do not click edit like story map, it is called "Configure" 
 
 ### Step 1
@@ -15,6 +17,7 @@ about the app to the user.
 ![image](https://github.com/rylee1999/RGoerlitzTechLog/assets/146375958/bc03956e-ddc0-48ae-8bb6-3116d5508b0c)
 ### Step 3
 You can customize the pop-ups that are sent to the user after they have entered a report such as a turtle sighting, such as "Thank you! Your report was successfully submitted".  You can also customize the button that the user is clicking to reports something, for example "Report a Turtle Sighting". 
+
 ![image](https://github.com/rylee1999/RGoerlitzTechLog/assets/146375958/38f4a665-f129-406f-bf3b-39232872ed44)
 ### Step 4
 You also have the option to customize the map layout such as adding a legend and moving map items around on the map. The apps header can also be customized.
