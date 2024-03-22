@@ -1,4 +1,4 @@
-# Learning about ArcGIS Instant Apps 
+# Learning About ArcGIS Instant Apps 
 
 **** It took a long time to configure, had to refresh page to get it to work ****
 
