@@ -23,7 +23,7 @@ In the options available for embeded maps in your story map include adding a sea
 
 # Express Maps 
 ### Draw your own map within story map
-Express map is an map option that becomes available when you go to add a map from your AGOL account, it shows up as "New Express Map". This is a really cool option to show a study area or number different locations of a map. You can also change the base map used, BUT the scaling is werid so make sure to play around woth the sizing. 
+Express map is an map option that becomes available when you go to add a map from your AGOL account, it shows up as "New Express Map". This is a really cool option to show a study area or number different locations of a map. You can also change the base map used, BUT the scaling is werid so make sure to play around with the sizing. 
 ![image](https://github.com/rylee1999/RGoerlitzTechLog/assets/146375958/3ead82bf-27aa-4c9b-b369-ec1d252dd1d1)
 
 # Imagfe Galleries
