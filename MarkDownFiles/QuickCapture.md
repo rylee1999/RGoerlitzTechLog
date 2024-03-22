@@ -7,7 +7,7 @@
 ## Quick How To
 
 ### Step 1: Having a pre-made feature layer
-You can start by either adding a pre saved map or feature later from your AGOL or create a new one for this project.
+You can start by either adding a pre saved map or feature later from your AGOL account or create a new one for this project.
 There are two choices, either to use a map or a feature layer hosted on AGOL. 
 ![image](https://github.com/rylee1999/RGoerlitzTechLog/assets/146375958/1e0821bc-1164-4550-89cc-364222fa02de)
 
