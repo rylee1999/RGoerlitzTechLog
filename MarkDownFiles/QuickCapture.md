@@ -22,3 +22,7 @@ To add new labels or new groups of labels use the top organce icon ( 3 symbols i
 
 ![image](https://github.com/rylee1999/RGoerlitzTechLog/assets/146375958/db5d71bd-85f2-4b83-af42-597fab0f8fc8)
 
+UPDATE THIS REQUIRES ARCGIS HUB PREMIUM TO SHARE PUBLICALLY 
+![image](https://github.com/rylee1999/RGoerlitzTechLog/assets/146375958/5778f812-4b65-4535-9906-5307c90b2c93)
+
+
