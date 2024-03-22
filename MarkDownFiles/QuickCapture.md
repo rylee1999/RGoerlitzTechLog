@@ -13,6 +13,7 @@ There are two choices given to create your buttons. Either using the fields from
 
 
 If you use a feature layer, the app will create buttons of all your fields grouped by layers.
+
 ![image](https://github.com/rylee1999/RGoerlitzTechLog/assets/146375958/54817c41-0c3a-4c93-80b5-ff0f7261592b)
 
 ### Step 2: Using a web map and creating your own buttons
