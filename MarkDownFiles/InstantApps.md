@@ -1,4 +1,4 @@
-# Learning about ArcGIS Instant Apps: Testing the Reporter App (Beta) 
+# Learning about ArcGIS Instant Apps Testing the Reporter App (Beta) 
 
 **** It took a long time to configure, had to refresh page to get it to work ****
 
@@ -9,6 +9,7 @@ This app allows uses to enter in data on a map, this could be helpful for our Ci
 ## HINT : while chosing a app best suited for your project make sure you are checking for errors at the top of app option, some apps are not suitbale for all data layers or map types.
 ![image](https://github.com/rylee1999/RGoerlitzTechLog/assets/146375958/3471f828-a6ba-40fa-902b-b49c1663839d)
 
+## Testing the Reporter App (Beta) 
 
 ### Step 1
 You can link a map you have already created in AGOL, I used the map linked to myTurtle Demo 123 Survey. THIS CAN LIVE UPDATE VIA APP and WEB APPLICATION, COOL!
