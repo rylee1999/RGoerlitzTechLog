@@ -8,7 +8,7 @@
 
 ### Step 1: Having a pre-made feature layer
 You can start by either adding a pre saved map or feature later from your AGOL account or create a new one for this project.
-There are two choices, either to use a map or a feature layer hosted on AGOL. 
+There are two choices given to create your buttons and they are either using the fields from the feature layer
 ![image](https://github.com/rylee1999/RGoerlitzTechLog/assets/146375958/1e0821bc-1164-4550-89cc-364222fa02de)
 
 
