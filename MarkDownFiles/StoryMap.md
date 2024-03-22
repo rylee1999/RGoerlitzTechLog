@@ -30,7 +30,7 @@ Express map is an map option that becomes available when you go to add a map fro
 ### There are different Image Galleries 
 ![image](https://github.com/rylee1999/RGoerlitzTechLog/assets/146375958/f56f171e-f9a0-4353-a6db-32ba70b35df6)
 
-** The add photo buttom somtimes hides itselve so hover around images untill you get this "Add Media" option
+** The add photo buttom sometimes hides itselve so hover around images untill you get this "Add Media" option
 ![image](https://github.com/rylee1999/RGoerlitzTechLog/assets/146375958/f14eb9e3-503e-4380-a963-7df73a1c3c3a)
 
 
