@@ -2,7 +2,7 @@
 
 **** It took a long time to configure, had to refresh page to get it to work ****
 
-This app allows uses to enter in data on a map, this could be helpful for our Citiizen Science Turtle Monitoring project, a app can also be used with a web application, up to the user. 
+This app allows uses to enter in data on a map, this could be helpful for our Citizen Science Turtle Monitoring project, a app can also be used with a web application, up to the user. 
 
 *** To edit after publishing you do not click edit like story map, it is called "Configure" ****
 
