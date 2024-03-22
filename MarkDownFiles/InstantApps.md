@@ -7,7 +7,6 @@ This app allows uses to enter in data on a map, this could be helpful for our Ci
 *** To edit after publishing you do not click edit like story map, it is called "Configure" ****
 
 ## HINT : while chosing a app best suited for your project make sure you are checking for errors at the top of app option, some apps are not suitbale for all data layers or map types.
-SEE BELOW
 ![image](https://github.com/rylee1999/RGoerlitzTechLog/assets/146375958/3471f828-a6ba-40fa-902b-b49c1663839d)
 
 
