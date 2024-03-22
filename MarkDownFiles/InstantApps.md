@@ -4,7 +4,7 @@
 
 This app allows uses to enter in data on a map, this could be helpful for our Citiizen Science Turtle Monitoring project, a app can also be installed in top of a web application. 
 
-*** To edit after publishing you do not click edit like story map, it is called "Configure" 
+*** To edit after publishing you do not click edit like story map, it is called "Configure" ****
 
 ### Step 1
 You can link a map you have already created in AGOL, I used the map linked to myTurtle Demo 123 Survey. THIS CAN LIVE UPDATE VIA APP and WEB APPLICATION, COOL!
