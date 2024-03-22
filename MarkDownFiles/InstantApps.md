@@ -14,6 +14,7 @@ to the "View" tab on the left side of app configuration layout.
 ### Step 2 
 You can add a header, introductory text and alternative text for map. The introductory text is the first thing that shows up when the user opens the app. This is a googd place to rely some information 
 about the app to the user. 
+
 ![image](https://github.com/rylee1999/RGoerlitzTechLog/assets/146375958/bc03956e-ddc0-48ae-8bb6-3116d5508b0c)
 ### Step 3
 You can customize the pop-ups that are sent to the user after they have entered a report such as a turtle sighting, such as "Thank you! Your report was successfully submitted".  You can also customize the button that the user is clicking to reports something, for example "Report a Turtle Sighting". 
