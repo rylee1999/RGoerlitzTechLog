@@ -6,6 +6,9 @@ Go to item detail page of hosted feature layer on AGOL, click on the tab "Create
 ![image](https://github.com/rylee1999/RGoerlitzTechLog/assets/146375958/46ce9c63-a07f-43ba-b00d-d14f2c20b37f)
 
 
+
+
+
 Once inside the "Create View Layer" you need to select the layer you want to manage if not already selected. Now click "NEXT" and go to step 2 "Define View".
 ![image](https://github.com/rylee1999/RGoerlitzTechLog/assets/146375958/32dbc042-7407-44df-bf36-ed2c3be49774)
 
