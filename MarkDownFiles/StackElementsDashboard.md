@@ -1,4 +1,4 @@
-### Stack Elements on dashboard 
+### Stack Elements on Dashboard 
 
 #There is a visualization trick in Dashbaord that allow you to stack elements together like graphs, indicators, and gauges into one element. Each element added gets its own tab that the user can rename. 
 This allows the user to add more information onto the Dashboard since it reduces space.
